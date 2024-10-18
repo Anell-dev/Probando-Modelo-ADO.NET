@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Entities"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9713e30c9641ed71efca6d951299571c7c8a4955"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0efee67fd02776f92f072efd51b16b498747369a"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Entities"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Entities"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

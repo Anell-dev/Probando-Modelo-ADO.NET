@@ -23,6 +23,13 @@ Partial Class frmVista
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         dtwUsuarios = New DataGridView()
+        btnDesconectado = New Button()
+        btnInsertar = New Button()
+        btnActualizar = New Button()
+        btnEliminar = New Button()
+        TextBox1 = New TextBox()
+        txtName = New TextBox()
+        txtEmail = New TextBox()
         CType(dtwUsuarios, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
@@ -34,18 +41,93 @@ Partial Class frmVista
         dtwUsuarios.Size = New Size(455, 244)
         dtwUsuarios.TabIndex = 0
         ' 
+        ' btnDesconectado
+        ' 
+        btnDesconectado.Location = New Point(42, 394)
+        btnDesconectado.Name = "btnDesconectado"
+        btnDesconectado.Size = New Size(138, 44)
+        btnDesconectado.TabIndex = 1
+        btnDesconectado.Text = "Modo Desconectado"
+        btnDesconectado.UseVisualStyleBackColor = True
+        ' 
+        ' btnInsertar
+        ' 
+        btnInsertar.Location = New Point(296, 374)
+        btnInsertar.Name = "btnInsertar"
+        btnInsertar.Size = New Size(75, 23)
+        btnInsertar.TabIndex = 2
+        btnInsertar.Text = "Insertar"
+        btnInsertar.UseVisualStyleBackColor = True
+        ' 
+        ' btnActualizar
+        ' 
+        btnActualizar.Location = New Point(394, 374)
+        btnActualizar.Name = "btnActualizar"
+        btnActualizar.Size = New Size(75, 23)
+        btnActualizar.TabIndex = 3
+        btnActualizar.Text = "Actualizar"
+        btnActualizar.UseVisualStyleBackColor = True
+        ' 
+        ' btnEliminar
+        ' 
+        btnEliminar.Location = New Point(499, 373)
+        btnEliminar.Name = "btnEliminar"
+        btnEliminar.Size = New Size(75, 23)
+        btnEliminar.TabIndex = 4
+        btnEliminar.Text = "Button1"
+        btnEliminar.UseVisualStyleBackColor = True
+        ' 
+        ' TextBox1
+        ' 
+        TextBox1.Location = New Point(54, 92)
+        TextBox1.Name = "TextBox1"
+        TextBox1.PlaceholderText = "ID"
+        TextBox1.Size = New Size(100, 23)
+        TextBox1.TabIndex = 5
+        ' 
+        ' txtName
+        ' 
+        txtName.Location = New Point(54, 150)
+        txtName.Name = "txtName"
+        txtName.PlaceholderText = "Name"
+        txtName.Size = New Size(100, 23)
+        txtName.TabIndex = 6
+        ' 
+        ' txtEmail
+        ' 
+        txtEmail.Location = New Point(54, 209)
+        txtEmail.Name = "txtEmail"
+        txtEmail.PlaceholderText = "Email"
+        txtEmail.Size = New Size(100, 23)
+        txtEmail.TabIndex = 7
+        ' 
         ' frmVista
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(txtEmail)
+        Controls.Add(txtName)
+        Controls.Add(TextBox1)
+        Controls.Add(btnEliminar)
+        Controls.Add(btnActualizar)
+        Controls.Add(btnInsertar)
+        Controls.Add(btnDesconectado)
         Controls.Add(dtwUsuarios)
         Name = "frmVista"
         Text = "Form1"
         CType(dtwUsuarios, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
+        PerformLayout()
     End Sub
 
     Friend WithEvents dtwUsuarios As DataGridView
+    Friend WithEvents btnDesconectado As Button
+    Friend WithEvents btnInsertar As Button
+    Friend WithEvents btnActualizar As Button
+    Friend WithEvents btnEliminar As Button
+    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents txtName As TextBox
+    Friend WithEvents txtEmail As TextBox
 
 End Class

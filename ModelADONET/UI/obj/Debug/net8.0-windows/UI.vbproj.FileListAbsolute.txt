@@ -36,3 +36,4 @@ C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\ne
 C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\UI.pdb
 C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
 C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\ref\UI.dll
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\UI.Desconectado.resources
