@@ -12,4 +12,8 @@
     <Import Include="System.Windows.Forms" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.vbproj" />
+  </ItemGroup>
+
 </Project>

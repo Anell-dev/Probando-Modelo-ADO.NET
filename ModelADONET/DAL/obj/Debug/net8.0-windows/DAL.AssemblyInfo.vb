@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("DAL"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2578d6cf933f3f3f094157182cc6812c86bd81f2"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9713e30c9641ed71efca6d951299571c7c8a4955"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("DAL"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("DAL"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

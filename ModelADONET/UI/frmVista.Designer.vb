@@ -22,10 +22,30 @@ Partial Class frmVista
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        components = New System.ComponentModel.Container()
-        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Text = "Form1"
+        dtwUsuarios = New DataGridView()
+        CType(dtwUsuarios, ComponentModel.ISupportInitialize).BeginInit()
+        SuspendLayout()
+        ' 
+        ' dtwUsuarios
+        ' 
+        dtwUsuarios.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        dtwUsuarios.Location = New Point(285, 63)
+        dtwUsuarios.Name = "dtwUsuarios"
+        dtwUsuarios.Size = New Size(455, 244)
+        dtwUsuarios.TabIndex = 0
+        ' 
+        ' frmVista
+        ' 
+        AutoScaleDimensions = New SizeF(7F, 15F)
+        AutoScaleMode = AutoScaleMode.Font
+        ClientSize = New Size(800, 450)
+        Controls.Add(dtwUsuarios)
+        Name = "frmVista"
+        Text = "Form1"
+        CType(dtwUsuarios, ComponentModel.ISupportInitialize).EndInit()
+        ResumeLayout(False)
     End Sub
+
+    Friend WithEvents dtwUsuarios As DataGridView
 
 End Class
