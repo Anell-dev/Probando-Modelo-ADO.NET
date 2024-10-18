@@ -2,7 +2,7 @@
 Imports MySql.Data.MySqlClient
 
 Public Class Dato
-    Private connectionString As String = "Server=localhost;Database=usuarios;User Id=root;Password=admin;"
+    Private connectionString As String = "Server=localhost;Database=usuarios;User Id=root;Password=;"
 
     'Modo Conectado-----------------------------------------------------------------'
     Public Function ObtenerUsuarios() As List(Of Usuario)

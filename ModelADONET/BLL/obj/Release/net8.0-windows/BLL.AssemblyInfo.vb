@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("BLL"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9713e30c9641ed71efca6d951299571c7c8a4955"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+179443958f7329f83c56cbf8179625f256dfba4d"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("BLL"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("BLL"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

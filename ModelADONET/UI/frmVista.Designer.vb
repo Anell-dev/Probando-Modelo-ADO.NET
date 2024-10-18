@@ -30,6 +30,7 @@ Partial Class frmVista
         TextBox1 = New TextBox()
         txtName = New TextBox()
         txtEmail = New TextBox()
+        btnCerrar = New Button()
         CType(dtwUsuarios, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
@@ -70,18 +71,20 @@ Partial Class frmVista
         ' 
         ' btnEliminar
         ' 
-        btnEliminar.Location = New Point(499, 373)
+        btnEliminar.Location = New Point(499, 374)
         btnEliminar.Name = "btnEliminar"
         btnEliminar.Size = New Size(75, 23)
         btnEliminar.TabIndex = 4
-        btnEliminar.Text = "Button1"
+        btnEliminar.Text = "Borrar"
         btnEliminar.UseVisualStyleBackColor = True
         ' 
         ' TextBox1
         ' 
+        TextBox1.Enabled = False
         TextBox1.Location = New Point(54, 92)
         TextBox1.Name = "TextBox1"
         TextBox1.PlaceholderText = "ID"
+        TextBox1.ReadOnly = True
         TextBox1.Size = New Size(100, 23)
         TextBox1.TabIndex = 5
         ' 
@@ -101,11 +104,21 @@ Partial Class frmVista
         txtEmail.Size = New Size(100, 23)
         txtEmail.TabIndex = 7
         ' 
+        ' btnCerrar
+        ' 
+        btnCerrar.Location = New Point(678, 386)
+        btnCerrar.Name = "btnCerrar"
+        btnCerrar.Size = New Size(87, 52)
+        btnCerrar.TabIndex = 8
+        btnCerrar.Text = "Cerrar"
+        btnCerrar.UseVisualStyleBackColor = True
+        ' 
         ' frmVista
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(btnCerrar)
         Controls.Add(txtEmail)
         Controls.Add(txtName)
         Controls.Add(TextBox1)
@@ -114,6 +127,7 @@ Partial Class frmVista
         Controls.Add(btnInsertar)
         Controls.Add(btnDesconectado)
         Controls.Add(dtwUsuarios)
+        FormBorderStyle = FormBorderStyle.None
         Name = "frmVista"
         Text = "Form1"
         CType(dtwUsuarios, ComponentModel.ISupportInitialize).EndInit()
@@ -129,5 +143,6 @@ Partial Class frmVista
     Friend WithEvents TextBox1 As TextBox
     Friend WithEvents txtName As TextBox
     Friend WithEvents txtEmail As TextBox
+    Friend WithEvents btnCerrar As Button
 
 End Class

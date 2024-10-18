@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\BLL\\BLL.vbproj": {}
+    "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\BLL\\BLL.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\BLL\\BLL.vbproj": {
+    "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\BLL\\BLL.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\BLL\\BLL.vbproj",
+        "projectUniqueName": "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\BLL\\BLL.vbproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\BLL\\BLL.vbproj",
-        "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\BLL\\obj\\",
+        "projectPath": "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\BLL\\BLL.vbproj",
+        "packagesPath": "C:\\Users\\Anelx\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\braya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anelx\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\DAL\\DAL.vbproj": {
-                "projectPath": "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\DAL\\DAL.vbproj"
+              "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\DAL\\DAL.vbproj": {
+                "projectPath": "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\DAL\\DAL.vbproj"
               }
             }
           }
@@ -67,21 +68,21 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\DAL\\DAL.vbproj": {
+    "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\DAL\\DAL.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\DAL\\DAL.vbproj",
+        "projectUniqueName": "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\DAL\\DAL.vbproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\DAL\\DAL.vbproj",
-        "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\DAL\\DAL.vbproj",
+        "packagesPath": "C:\\Users\\Anelx\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\braya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anelx\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,14 +90,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\Entities\\Entities.vbproj": {
-                "projectPath": "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\Entities\\Entities.vbproj"
+              "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\Entities\\Entities.vbproj": {
+                "projectPath": "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\Entities\\Entities.vbproj"
               }
             }
           }
@@ -140,21 +142,21 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\Entities\\Entities.vbproj": {
+    "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\Entities\\Entities.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\Entities\\Entities.vbproj",
+        "projectUniqueName": "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\Entities\\Entities.vbproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\Entities\\Entities.vbproj",
-        "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\braya\\source\\Github\\Probando-Modelo-ADO.NET\\ModelADONET\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\Entities\\Entities.vbproj",
+        "packagesPath": "C:\\Users\\Anelx\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anelx\\source\\repos\\Probando-Modelo-ADO.NET\\ModelADONET\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\braya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anelx\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -162,6 +164,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -203,7 +206,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

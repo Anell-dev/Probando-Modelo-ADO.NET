@@ -24,6 +24,10 @@ Partial Class Desconectado
     Private Sub InitializeComponent()
         dtwDesconectado = New DataGridView()
         btnConectado = New Button()
+        btnEditarDesconectado = New Button()
+        TextBox1 = New TextBox()
+        TextBox2 = New TextBox()
+        TextBox3 = New TextBox()
         CType(dtwDesconectado, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
@@ -44,19 +48,63 @@ Partial Class Desconectado
         btnConectado.Text = "Conectado"
         btnConectado.UseVisualStyleBackColor = True
         ' 
+        ' btnEditarDesconectado
+        ' 
+        btnEditarDesconectado.Location = New Point(282, 404)
+        btnEditarDesconectado.Name = "btnEditarDesconectado"
+        btnEditarDesconectado.Size = New Size(75, 23)
+        btnEditarDesconectado.TabIndex = 2
+        btnEditarDesconectado.Text = "Actualizar"
+        btnEditarDesconectado.UseVisualStyleBackColor = True
+        ' 
+        ' TextBox1
+        ' 
+        TextBox1.Enabled = False
+        TextBox1.Location = New Point(24, 124)
+        TextBox1.Name = "TextBox1"
+        TextBox1.PlaceholderText = "Id"
+        TextBox1.Size = New Size(100, 23)
+        TextBox1.TabIndex = 3
+        ' 
+        ' TextBox2
+        ' 
+        TextBox2.Location = New Point(24, 188)
+        TextBox2.Name = "TextBox2"
+        TextBox2.PlaceholderText = "Name"
+        TextBox2.Size = New Size(100, 23)
+        TextBox2.TabIndex = 4
+        ' 
+        ' TextBox3
+        ' 
+        TextBox3.Location = New Point(24, 258)
+        TextBox3.Name = "TextBox3"
+        TextBox3.PlaceholderText = "Email"
+        TextBox3.Size = New Size(100, 23)
+        TextBox3.TabIndex = 5
+        ' 
         ' Desconectado
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(708, 450)
+        Controls.Add(TextBox3)
+        Controls.Add(TextBox2)
+        Controls.Add(TextBox1)
+        Controls.Add(btnEditarDesconectado)
         Controls.Add(btnConectado)
         Controls.Add(dtwDesconectado)
+        FormBorderStyle = FormBorderStyle.None
         Name = "Desconectado"
         Text = "Desconectado"
         CType(dtwDesconectado, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
+        PerformLayout()
     End Sub
 
     Friend WithEvents dtwDesconectado As DataGridView
     Friend WithEvents btnConectado As Button
+    Friend WithEvents btnEditarDesconectado As Button
+    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents TextBox2 As TextBox
+    Friend WithEvents TextBox3 As TextBox
 End Class

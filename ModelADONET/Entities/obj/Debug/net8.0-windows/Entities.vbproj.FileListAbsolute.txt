@@ -10,3 +10,15 @@ C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\Entities\obj\De
 C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\Entities\obj\Debug\net8.0-windows\refint\Entities.dll
 C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\Entities\obj\Debug\net8.0-windows\Entities.pdb
 C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\Entities\obj\Debug\net8.0-windows\ref\Entities.dll
+C:\Users\Anelx\source\repos\Probando-Modelo-ADO.NET\ModelADONET\Entities\bin\Debug\net8.0-windows\Entities.deps.json
+C:\Users\Anelx\source\repos\Probando-Modelo-ADO.NET\ModelADONET\Entities\bin\Debug\net8.0-windows\Entities.dll
+C:\Users\Anelx\source\repos\Probando-Modelo-ADO.NET\ModelADONET\Entities\bin\Debug\net8.0-windows\Entities.pdb
+C:\Users\Anelx\source\repos\Probando-Modelo-ADO.NET\ModelADONET\Entities\obj\Debug\net8.0-windows\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anelx\source\repos\Probando-Modelo-ADO.NET\ModelADONET\Entities\obj\Debug\net8.0-windows\Entities.AssemblyInfoInputs.cache
+C:\Users\Anelx\source\repos\Probando-Modelo-ADO.NET\ModelADONET\Entities\obj\Debug\net8.0-windows\Entities.AssemblyInfo.vb
+C:\Users\Anelx\source\repos\Probando-Modelo-ADO.NET\ModelADONET\Entities\obj\Debug\net8.0-windows\Entities.vbproj.CoreCompileInputs.cache
+C:\Users\Anelx\source\repos\Probando-Modelo-ADO.NET\ModelADONET\Entities\obj\Debug\net8.0-windows\Entities.sourcelink.json
+C:\Users\Anelx\source\repos\Probando-Modelo-ADO.NET\ModelADONET\Entities\obj\Debug\net8.0-windows\Entities.dll
+C:\Users\Anelx\source\repos\Probando-Modelo-ADO.NET\ModelADONET\Entities\obj\Debug\net8.0-windows\refint\Entities.dll
+C:\Users\Anelx\source\repos\Probando-Modelo-ADO.NET\ModelADONET\Entities\obj\Debug\net8.0-windows\Entities.pdb
+C:\Users\Anelx\source\repos\Probando-Modelo-ADO.NET\ModelADONET\Entities\obj\Debug\net8.0-windows\ref\Entities.dll
