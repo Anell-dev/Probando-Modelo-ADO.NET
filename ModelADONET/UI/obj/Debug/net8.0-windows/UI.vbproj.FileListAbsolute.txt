@@ -1,0 +1,15 @@
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.vb
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\UI.vbproj.CoreCompileInputs.cache
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\UI.sourcelink.json
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\braya\source\Github\Probando-Modelo-ADO.NET\ModelADONET\UI\obj\Debug\net8.0-windows\ref\UI.dll
